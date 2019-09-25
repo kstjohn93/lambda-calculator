@@ -11,7 +11,7 @@ import Specials from "./components/ButtonComponents/SpecialButtons/Specials";
 // Logo has already been provided for you. Do the same for the remaining components
 import Display from "./components/DisplayComponents/Display";
 import Logo from "./components/DisplayComponents/Logo";
-import Display from "./components/DisplayComponents/Display";
+
 
 
 function App() {
